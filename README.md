@@ -66,5 +66,5 @@
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/Computational-Intelligence.git
+   git clone https://github.com/imkonna/AI2024CompInt.git
    cd Computational-Intelligence
